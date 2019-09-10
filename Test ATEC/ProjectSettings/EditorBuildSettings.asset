@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Map.unity
+    path: Assets/Scenes/Test ATEC.unity
     guid: 50657ae5dafdd0942931700519ff27bb
   m_configObjects: {}
