@@ -2,9 +2,6 @@
 Android app test for Autism ATEC to assess the dynamics and identify problems
 This app is created based on an existing website for online testing stopautism.ru
 
-Link to apk file:</br>
-https://drive.google.com/file/d/1cMKYhoWEJ1o4Vj922SrmFh7ID_mTVKG_/view?usp=sharing
-
 Below are screenshots from the application
 
 <img src="https://github.com/maximpogodin/Test-ATEC-android/blob/master/Screenshots/Authentication.jpg" width="250">
